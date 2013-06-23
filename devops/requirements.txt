@@ -1,1 +1,2 @@
 Scrapy==0.16.5
+pymongo==2.5.2
